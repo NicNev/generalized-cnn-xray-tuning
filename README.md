@@ -17,7 +17,7 @@ These notebooks contain the code used for optimization and model training/evalua
 
 Datasets generated during the Bayesian Optimization process:
 
-* **[Optuna Study Progress](https://www.kaggle.com/datasets/nicholasnevank/optuna-study):** Contains the logs and progress details from the Optuna optimization trials.
+* **[Optuna Study Progress](https://www.kaggle.com/datasets/nicholasnevank/optuna-study):** Contains the optuna_study.db file for Optuna optimization trials.
 * **[Best Hyperparameters (JSON)](https://www.kaggle.com/datasets/nicholasnevank/bo-best-hyperparameters):** A JSON file storing the best hyperparameter configuration found by the optimization.
 
 ## Input Datasets
